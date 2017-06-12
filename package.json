@@ -1,0 +1,12 @@
+{
+  "name": "js-basic",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server . -a 0.0.0.0 -p 9000"
+  },
+  "author": "Skillmapped <help@skillmapped.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
