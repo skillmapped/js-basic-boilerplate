@@ -1,0 +1,11 @@
+Boiler plate for exercises at https://www.skillmapped.com/challenges/javascript-basic-programming/tasks/fix-the-bug/reviews
+
+Steps to install the boilerplate:
+
+git clone https://github.com/skillmapped/js-basic-boilerplate.git
+cd js-basic-boilerplate
+npm install
+npm start
+
+
+Install npm and node. In case you use a different package manager or no package manager, copy the index.html and load files from CDN.
